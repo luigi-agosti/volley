@@ -4,7 +4,7 @@ h2. You don't know what is Volley
 
 Watch this "video":http://www.youtube.com/watch?v=yhv8l9F44qo
 
-Please note this is NOT the official volley project, it is just a restructure of the official one that uses maven.
+Please note this is *%{color:red}NOT%* the official volley project, it is just a restructure of the official one that uses maven.
 
 Want to use the real one ?
 
@@ -15,6 +15,7 @@ git clone https://android.googlesource.com/platform/frameworks/volley
 h2. How to use it
 
 Clone it and run mvn clean install.
+The build runs instrumentation tests by default, you need to have a device attached... you can of course set up an emulator to start before the tests.
 
 It will install locally the jar that you can then use in your pom with this dependency tag
 
