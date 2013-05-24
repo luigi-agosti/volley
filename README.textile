@@ -4,7 +4,7 @@ h2. You don't know what is Volley
 
 Watch this "video":http://www.youtube.com/watch?v=yhv8l9F44qo
 
-Please note this is *%{color:red}NOT%* the official volley project, it is just a restructure of the official one that uses maven.
+Please note this is *NOT* the official volley project, it is just a restructure of the official one that uses maven.
 
 Want to use the real one ?
 
@@ -28,8 +28,6 @@ It will install locally the jar that you can then use in your pom with this depe
 h2. Project future
 
 I will delete the project as soon as a better and official way to share the library is available. If you know please let me know :)
-
-I may do some work to move out the tests from test/resources to make them work with maven, but later on
 
 
 
